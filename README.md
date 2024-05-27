@@ -1,6 +1,6 @@
 # Entrega 1 - POO (Veículo)
 
-# Cálculo de Consumo de Combustível de Veículos
+# Cálculo de consumo de combustível de veículos
 
 ## Descrição da Atividade
 
